@@ -668,3 +668,13 @@ header nav  {
     width: 30px;
   }
  
+
+@media (max-width: 600px) {
+
+  .home, header {
+    height: 100vh;
+    background-color: #202020;
+  }
+
+
+}
