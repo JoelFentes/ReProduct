@@ -678,7 +678,7 @@ header nav  {
 
   header {
     height: 20rem;
-    width: 75rem;
+    width: 100rem;
   }
 
   header nav li {
@@ -712,7 +712,7 @@ header nav  {
     background-image: url("./images/bg.png");
     background-size: 100rem;
     height: 50rem;
-    width: 140rem;
+    width: 100rem;
   }
 
   .home-info {
