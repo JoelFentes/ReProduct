@@ -492,3 +492,64 @@ header nav  {
     position: relative;
     top: 130px;
   }
+
+  #bus_box1{
+    height: 500px;
+    background-color: #006837;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    color: rgb(255, 255, 255);
+  }
+  
+  #bus_box2{
+    height: 500px;
+    background-color: #006837;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    color: rgb(255, 255, 255);
+  }
+  
+  #bus_box3{
+    height: 500px;
+    background-color: #006837;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    color: rgb(255, 255, 255);
+  }
+  
+  
+  
+  .grid-business {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 40vh 30vh 15vh;
+    grid-gap: 20px; 
+    margin-top: 50px;
+  }
+  
+  .business {
+    width: 95%;
+    position: relative;
+    top: 20px;
+    
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+  }
+  
+  .business h1 {
+    font-size: 35px;
+    font-style: italic;
+  }
+  
+  .business a {
+    
+    font-size: 18px;
+    color: #202020;
+  }
+  
