@@ -669,11 +669,16 @@ header nav  {
   }
  
 
-@media (max-width: 600px) {
+@media (max-width: 360) {
 
   .home, header {
-    height: 100vh;
-    background-color: #202020;
+    overflow: scroll;
+    position: fixed;
+    width: 30rem;
+    height: 52rem;
+    display: flex;
+    justify-content: center;
+    
   }
 
 
