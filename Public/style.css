@@ -36,10 +36,11 @@ header nav  {
 
 #logo img {
     position: relative;
+    top: 5px;
     left: 100px;
     list-style: none;
 
-    height: 170px;
+    height: 200px;
 }
 
 #nav- {
@@ -553,3 +554,12 @@ header nav  {
     color: #202020;
   }
   
+  footer {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+
+    height: 350px;
+    background-color: #424242;
+    color: #fff;
+  }
