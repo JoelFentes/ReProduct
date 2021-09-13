@@ -671,9 +671,101 @@ header nav  {
 
 @media (max-width: 999px) {
 
-  .home {
+  body {
+    max-width: 100%;
+    align-content: center;
+  }
 
+  header {
+    height: 20rem;
+    width: 69rem;
+  }
+
+  header nav li {
+    position: relative;
+    right: 3.5rem;
+    text-align: center;
+    margin-right: 14rem;
+  }
+
+  header nav a {
+    font-size: 2.5rem;
+  }
+
+  #nav- button {
+    width: 15rem;
+    height: 4rem;
+    font-size: 1.5rem;
+    border-radius: 2rem;
+  }
+
+  #nav- button:hover {
+    background-color: #9cc95d;
+    box-shadow: 1px 1px 1px #949292;
+  }
+
+  #logo img {
+    height: 20rem;
+  }
+
+  .home {
+    background-image: url("./images/bg.png");
+    background-size: 100rem;
+    height: 50rem;
+    width: 140rem;
+  }
+
+  .home-info {
+    position: relative;
+    top: 5rem;
+    right: 50rem;
+
+    width: 100rem;
+    height: 25rem;
+  }
+
+  .home-info h1 {
+    position: relative;
+    right: 10rem;
+
+    text-align: center;
+    font-size: 5rem;
+  }
+
+  .home-info p {
+    position: relative;
+    right: 10rem;
+
+    font-size: 2.5rem;
+  }
+
+  
+  .home-info button {
+    position: relative;
+    top: 3rem;
+    left: 32rem;
+    width: 15rem;
+    height: 4rem;
+    font-size: 1.5rem;
+    border-radius: 2rem;
+  }
+
+  .home-info button:hover {
+    background-color: #9cc95d;
+    box-shadow: 1px 1px 1px #949292;
   }
 
 
+
+  
+
+
+
+
+  .home-info-img {
+    opacity: 0;
+    position: relative;
+    right: 50rem;
+
+  }
 }
