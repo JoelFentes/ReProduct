@@ -669,7 +669,7 @@ header nav  {
   }
  
 
-@media (max-width: 360px) {
+@media (max-width: 999px) {
 
   body {
     max-width: 100%;
