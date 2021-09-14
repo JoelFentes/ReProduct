@@ -672,7 +672,7 @@ header nav  {
 @media (max-width: 999px) {
 
   body {
-    max-width: 100%;
+    max-width: 100rem;
     align-content: center;
   }
 
