@@ -803,11 +803,128 @@ header nav  {
     font-size: 4rem;
   }
 
+  .hero .container .carousel .slider .content p {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    color: #fff;
+  }
+
+  .hero .container .carousel .slider .content a {
+    
+    font-size: 2rem;
+    color: #fff;
+  }
+  
+
   .hero .container .carousel .controls img {
     width: 2rem;
     height: 2rem;
   }
  
+  .day-offers {
+    position: relative;
+    left: 2.5rem;
+
+    height: 10rem;
+    width: 80rem;
+  }
+
+  .day-offers h1 {
+    font-size: 4rem;
+  }
+
+  .day-offers a {
+    font-size: 2rem;
+  }
+
+  .grid-products {
+    position: relative;
+    left: 2.5rem;
+    width: 90rem;
+  }
+
+  .grid-products .products, .products2 {
+
+    grid-template-columns:  2fr 2fr;
+    grid-template-rows:  25vh 25vh ;
+    grid-gap: 2rem; 
+
+  }
+
+   #b-2, #b-3, #b-4, #b-5, #b-7, #b-8, #b-9, #b-10{
+    background-color: #04a359;
+    display: flex; 
+    justify-content: center; 
+    align-content: center; 
+    flex-direction: column;
+    color:#fff;
+  
+  }
+
+  #b-1 {
+    display: none ;
+  }
+
+  
+  #b-6 {
+    display: none ;
+  }
+
+  #b-2, #b-3, #b-4, #b-5, #b-7, #b-8, #b-9, #b-10  {
+    position: relative;
+    left: 1rem;
+    font-size: 2rem;
+  }
+
+  
+  #b-2 a {
+    position: relative;
+    top: 3rem;
+  }
+
+  #b-3 a {
+    position: relative;
+    top: 3rem;
+  }
+
+  
+  #b-4 a {
+    position: relative;
+    top: 3rem;
+  }
+
+  
+  #b-5 a {
+    position: relative;
+    top: 3rem;
+  }
+
+  
+  #b-7 a {
+    position: relative;
+    top: 3rem;
+  }
+
+  
+  #b-8 a {
+    position: relative;
+    top: 3rem;
+  }
+
+  
+  #b-9 a {
+    position: relative;
+    top: 3rem;
+  }
+
+  
+  #b-10 a {
+    position: relative;
+    top: 3rem;
+  }
+
+
+
 
 
 }
