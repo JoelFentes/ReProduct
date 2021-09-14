@@ -673,6 +673,7 @@ header nav  {
 @media (max-width: 999px) {
 
   body {
+    overflow-x: hidden;
     max-width: 100rem;
     align-content: center;
   }
@@ -848,6 +849,11 @@ header nav  {
     grid-template-columns:  2fr 2fr;
     grid-template-rows:  25vh 25vh ;
     grid-gap: 2rem; 
+
+  }
+
+  .grid-products a:hover {
+    color: #999999;
 
   }
 
