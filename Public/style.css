@@ -349,6 +349,7 @@ header nav  {
     width: 20px;
     height: 20px;
   }
+
   .day-offers {
     width: 95%;
     position: relative;
@@ -683,7 +684,7 @@ header nav  {
 
   header nav li {
     position: relative;
-    right: 2.5rem;
+    right: 2rem;
     text-align: center;
     margin-right: 14rem;
   }
@@ -765,4 +766,48 @@ header nav  {
   .hero {
     width: 90rem;
   }
+
+  .hero .container .carousel .slider .content{
+    position: relative;
+    right: 23rem;
+
+  }
+
+  .hero .sec1 h2{
+    position: relative;
+    left: 25rem;
+    font-size: 4rem;
+  }
+
+  .hero .sec2 h2{
+    position: relative;
+    left: 25rem;
+    font-size: 4rem;
+  }
+
+  .hero .sec3 h2{
+    position: relative;
+    left: 25rem;
+    font-size: 4rem;
+  }
+
+  .hero .sec4 h2{
+    position: relative;
+    left: 25rem;
+    font-size: 4rem;
+  }
+
+  .hero .sec5 h2{
+    position: relative;
+    left: 25rem;
+    font-size: 4rem;
+  }
+
+  .hero .container .carousel .controls img {
+    width: 2rem;
+    height: 2rem;
+  }
+ 
+
+
 }
