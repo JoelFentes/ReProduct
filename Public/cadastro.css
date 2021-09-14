@@ -57,8 +57,9 @@
     /*Texto guia para usuários com conta registrada*/
 }
 .left{
-    background-image: url("./images/leafs.jpeg");
-    background-size: cover;
+    background-image: url("./images/leafs.png");
+    background-size: contain;
+    background-repeat: no-repeat;
     border-radius: 25px 0 0 25px;
     height: 100%;
     width: 45%;
