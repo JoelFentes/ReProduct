@@ -858,19 +858,31 @@ header nav  {
 
   }
 
-  .day-offers2 {
+  .day-offers2{
     position: relative;
-    top: 10rem;
     left: 2.5rem;
+    top: 10rem;
 
     height: 10rem;
     width: 80rem;
-
   }
 
+  .day-offers2 h1 {
+    font-size: 4rem;
+    font-style: italic;
+  }
+
+  .day-offers2 a {
+    position: relative; 
+    left: 65rem;
+    bottom: 4rem;
+    font-size: 2rem;
+    color: #202020;
+  }
+  
   .products2 {
     position: relative;
-    top: 10rem;
+    top: 5rem;
   }
 
    #b-2, #b-3, #b-4, #b-5, #b-7, #b-8, #b-9, #b-10{
@@ -1011,6 +1023,37 @@ header nav  {
     justify-content: space-around;
     align-items: center;
   }
- 
+  
+  footer .copyright {
+    font-size: 1.5rem;
+  }
 
+  footer .copyright p {
+    font-size: 1.5rem;
+  }
+
+  footer .copyright span {
+    font-size: 1.5rem;
+  }
+
+
+  footer .support {
+    font-size: 1.5rem;
+  }
+
+  footer .support span{
+    font-size: 2rem;
+  }
+
+  footer .social-media {
+    font-size: 1.5rem;
+  }
+
+  footer .social-media a {
+    font-size: 2rem;
+  }
+
+  footer a:hover {
+    color: #c7c7c7;
+  }
 }
