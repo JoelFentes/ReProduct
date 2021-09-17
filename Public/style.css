@@ -840,6 +840,7 @@ header nav  {
 
   .grid-products {
     position: relative;
+    top: 10rem;
     left: 2.5rem;
     width: 90rem;
   }
@@ -855,6 +856,21 @@ header nav  {
   .grid-products a:hover {
     color: #999999;
 
+  }
+
+  .day-offers2 {
+    position: relative;
+    top: 10rem;
+    left: 2.5rem;
+
+    height: 10rem;
+    width: 80rem;
+
+  }
+
+  .products2 {
+    position: relative;
+    top: 10rem;
   }
 
    #b-2, #b-3, #b-4, #b-5, #b-7, #b-8, #b-9, #b-10{
@@ -929,8 +945,72 @@ header nav  {
     top: 3rem;
   }
 
+  .grid-business {
+    margin-top: 5rem;
+    position: relative;
+    top: 20rem;
+    left: 1.5rem;
+    width: 80rem;
 
+  }
 
+  .business {
+    position: relative;
+    top: 20rem;
+    left: 3rem;
+    margin-top: 5rem;
+  }
 
+  .business h1 {
+    font-size: 4rem;
+  }
+
+  .business a {
+    
+    font-size: 2rem;
+  }
+
+  .business a:hover {
+    color: #999999;
+
+  }
+
+  #bus_box1 {
+    height: 40rem;
+    font-size: 1.5rem;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #bus_box2 {
+    height: 40rem;
+    font-size: 1.5rem;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #bus_box3 {
+    height: 40rem;
+    font-size: 1.5rem;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  footer {
+   
+    width: 100rem;
+    height: 50rem;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+ 
 
 }
