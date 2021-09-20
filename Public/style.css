@@ -372,6 +372,28 @@ header nav  {
     font-size: 18px;
     color: #202020;
   }
+
+  .day-offers2{
+    position: relative;
+    left: 2.5rem;
+    top: 10rem;
+
+    height: 10rem;
+    width: 80rem;
+  }
+
+  .day-offers2 h1 {
+    font-size: 4rem;
+    font-style: italic;
+  }
+
+  .day-offers2 a {
+    position: relative; 
+    left: 65rem;
+    bottom: 4rem;
+    font-size: 2rem;
+    color: #202020;
+  }
   
   .grid-products {
     margin-top: 50px;
