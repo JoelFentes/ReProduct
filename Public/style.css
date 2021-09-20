@@ -373,25 +373,26 @@ header nav  {
     color: #202020;
   }
 
-  .day-offers2{
+  .day-offers2 {
+    width: 95%;
     position: relative;
-    left: 2.5rem;
-    top: 10rem;
-
-    height: 10rem;
-    width: 80rem;
+    top: 20px;
+    
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
   }
-
+  
   .day-offers2 h1 {
-    font-size: 4rem;
+    font-size: 35px;
     font-style: italic;
   }
-
+  
   .day-offers2 a {
-    position: relative; 
-    left: 65rem;
-    bottom: 4rem;
-    font-size: 2rem;
+    
+    font-size: 18px;
     color: #202020;
   }
   
