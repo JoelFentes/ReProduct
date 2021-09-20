@@ -1048,6 +1048,8 @@ header nav  {
   }
   
   footer .copyright {
+    position: relative;
+    right: 7rem;
     font-size: 1.5rem;
   }
 
@@ -1061,6 +1063,8 @@ header nav  {
 
 
   footer .support {
+    position: relative;
+    right: 7rem;
     font-size: 1.5rem;
   }
 
@@ -1069,6 +1073,8 @@ header nav  {
   }
 
   footer .social-media {
+    position: relative;
+    right: 7rem;
     font-size: 1.5rem;
   }
 
