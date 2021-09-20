@@ -610,7 +610,7 @@ header nav  {
     text-align: center;
 
     position: relative;
-    right: 50px;
+    right: 30px;
     top: 30px;
   }
 
@@ -641,7 +641,7 @@ header nav  {
     display: flex;
     flex-direction: column;
     position: relative;
-    right: 50px;
+    right: 30px;
     top: 17px;
   }
 
@@ -670,7 +670,7 @@ header nav  {
     display: flex;
     flex-direction: column;
     position: relative;
-    right: 50px;
+    right: 30px;
     top: 70px;
   }
 
